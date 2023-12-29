@@ -4,9 +4,7 @@
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=casertaPaulo&show_icons=true&theme=radical)
 
 ## Tecnologias do dia a dia 🤖
-
 <div style="display: inline_block"> <br/>
-
    <img align="center" alt="FLUTTER" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
    <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />

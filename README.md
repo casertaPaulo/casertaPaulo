@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, eu sou o Paulo Caserta 👋
 
-<!--
-**casertaPaulo/casertaPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=casertaPaulo&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"> <br/>
+
+   <img align="center" alt="FLUTTER" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+   <img align="center" alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</div> <br/>
+
+## Sobre mim
+
+#### Tenho 18 anos e me formei em Desenvolvimento de Sistemas. Sou apaixonado por programação e tecnologia, buscando constantemente aprimorar minhas habilidades. Estou animado para embarcar em desafios profissionais e contribuir para o mundo da tecnologia.
+

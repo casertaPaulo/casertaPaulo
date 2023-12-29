@@ -1,8 +1,9 @@
-### Olá, eu sou o Paulo Caserta 👋
+### Seja Bem-Vindo!
+### Eu sou o Paulo Caserta 👋
 
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=casertaPaulo&show_icons=true&theme=radical)
 
-## Tecnologias
+## Tecnologias do dia a dia 🤖
 
 <div style="display: inline_block"> <br/>
 

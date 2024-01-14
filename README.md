@@ -11,9 +11,17 @@
    <img align="center" alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div> <br/>
 
-## Atualmente
-### Alura
-Cursando sobre arquiteturas e padrões de projeto em Flutter e cursando a formação de desenvolveldor Java.
+## Cursando Atualmente
+### Flutter (Alura)
+- Arquiteturas e padrões de projeto
+- Aperfeiçoamento na linguagem Dart
+
+### Java (Alura)
+- Formação Desenvolvedor Java
+- Aplicando orientação a objetos
+- Consumindo APIs
+- Estruturas de dados
+
 
 ## Sobre mim
 

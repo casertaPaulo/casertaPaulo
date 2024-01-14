@@ -11,6 +11,10 @@
    <img align="center" alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div> <br/>
 
+## Atualmente
+### Alura
+Cursando sobre arquiteturas e padrões de projeto em Flutter e cursando a formação de desenvolveldor Java.
+
 ## Sobre mim
 
 #### Tenho 18 anos e me formei em Desenvolvimento de Sistemas. Sou apaixonado por programação e tecnologia, buscando constantemente aprimorar minhas habilidades. Estou animado para embarcar em desafios profissionais e contribuir para o mundo da tecnologia.

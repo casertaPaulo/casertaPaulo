@@ -14,7 +14,7 @@
 ## Cursando Atualmente
 ### Flutter (Alura)
 - Arquiteturas e padrões de projeto
-- Aperfeiçoamento na linguagem Dart
+- Aperfeiçoamento dos pequenos detalhes na linguagem Dart
 
 ### Java (Alura)
 - Formação Desenvolvedor Java

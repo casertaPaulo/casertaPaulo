@@ -22,11 +22,8 @@
 - Aperfeiçoamento dos pequenos detalhes na linguagem Dart
 
 ### Java (Alura)
-- Formação Desenvolvedor Java
-- Aplicando orientação a objetos
-- Consumindo APIs
-- Estruturas de dados
-
+- Design Patterns
+- Criações robustas de RESTfulAPIs
 
 ## Sobre mim
 
